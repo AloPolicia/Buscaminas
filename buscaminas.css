@@ -1,0 +1,12 @@
+.square {
+  background:   #1EB9C9;
+  float: right;
+  height: 25px;
+  width: 25px;
+}
+.game {
+  display: flex;
+  justify-content: right;
+  flex-direction: row;
+  align-items: right;
+}
